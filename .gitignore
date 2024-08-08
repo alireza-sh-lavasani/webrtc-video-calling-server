@@ -33,3 +33,6 @@ npm-debug.log
 
 # macOS specific files
 .DS_Store
+
+# Build folder
+dist
